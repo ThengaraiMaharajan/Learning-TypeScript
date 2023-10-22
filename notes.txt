@@ -1,0 +1,33 @@
+Type Script
+
+strongly typed programing language
+created by microsoft
+superset of javascript
+
+why 
+compiles to js 
+keeps code evergreen 
+supported by all major framework and library
+
+
+
+typesafety 
+keeps application free from type error 
+keeps yours js code free from undefined and null values 
+in typescript types are stripped when your code is converted to js
+
+
+
+
+package.json will keep track on all the packages that is used in the project
+on publishing the project in npm ,npm will go through this package.json file for details
+
+all the packages that we install will be kept inside the node modules folder
+
+
+tsc --init 
+
+tsconfig.json
+
+target : which version the typescript has to be converted
+module : where we need to run the code , (browser or OS)
